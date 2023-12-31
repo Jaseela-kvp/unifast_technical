@@ -119,14 +119,10 @@ html {
   background-size: cover;
 }
 #Pintro_4 {
-  background: url("../img/products/building.jpg") no-repeat center center;
-  background-size: cover;
-}
-#Pintro_5 {
   background: url("../img/products/tools.jpg") no-repeat center center;
   background-size: cover;
 }
-#Pintro_6 {
+#Pintro_5 {
   background: url("../img/products/hoses.jpg") no-repeat center center;
   background-size: cover;
 }

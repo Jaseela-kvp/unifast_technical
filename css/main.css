@@ -126,6 +126,14 @@ html {
   background: url("../img/products/hoses.jpg") no-repeat center center;
   background-size: cover;
 }
+#Pintro_6 {
+  background: url("../img/products/procurestack.jpeg") no-repeat center center;
+  background-size: cover;
+}
+.m-custom{
+  margin-top: 180px;
+  margin-left: 30px;
+}
 #features .custom_rounded {
   border-radius: 15px;
 }
